@@ -1,4 +1,4 @@
-** Task - 3 Aggregator-api**
+**Task - 3 Aggregator-api**
 
 To build a GET REST aggregator api that communications with posts and comments api to return an aggregated response.
 
